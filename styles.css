@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #415d8a;
+}
+
+#links-container {
+    text-align: center;
+    margin: 50px;
+}
+
+h1 {
+    font-size: 36px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    color: #ffd700; 
+    margin-bottom: 30px;
+}
+
+a {
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #782a60;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+    font-size: 18px;
+    color: #00000;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 150px; /* Defina a largura desejada */
+    height: 150px; /* Defina a altura desejada */
+}
