@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #ad388f;
+    background-color: #B33CB24D;
 }
 
 #links-container {
@@ -18,7 +18,7 @@ h1 {
 
 h2 {
     font-size: 24px;
-    color: #ffd700; 
+    color: #fff; 
     margin-bottom: 30px;
 }
 
@@ -26,7 +26,7 @@ a {
     display: block;
     margin-bottom: 10px;
     padding: 10px;
-    background-color: #7bb5d5;
+    background-color: #9D3CB3;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
